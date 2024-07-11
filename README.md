@@ -13,7 +13,7 @@ To fetch and display weather information, I integrated the OpenWeather API.
 
 Through this project, I have enhanced my proficiency in React.js, JavaScript, and frontend development.
 
-Project Link :- 
+project Link: https://weathercheck-1.netlify.app/ 
 =======
 # Weather_app_react
 >>>>>>> 8b98be3cf73852d87aa766a9d4531d41c17b3080
