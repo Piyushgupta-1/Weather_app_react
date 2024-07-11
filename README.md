@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React.js, a popular library for frontend development, offers benefits like code reusability and faster page loads.
 
 I have Build a weather dashboard that provides current weather information and forecasts for 
@@ -13,3 +14,6 @@ To fetch and display weather information, I integrated the OpenWeather API.
 Through this project, I have enhanced my proficiency in React.js, JavaScript, and frontend development.
 
 Project Link :- 
+=======
+# Weather_app_react
+>>>>>>> 8b98be3cf73852d87aa766a9d4531d41c17b3080
