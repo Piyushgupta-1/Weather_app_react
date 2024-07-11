@@ -1,0 +1,17 @@
+/* ForecastBox.css */
+
+.forecast {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.row {
+    flex: 1;
+    margin: 0 10px 10px 0;
+    min-width: 150px;
+    max-width: 200px;
+    min-height: 150px;
+    max-height: 150px;
+}
+

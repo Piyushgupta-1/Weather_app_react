@@ -1,0 +1,22 @@
+.InfoBox {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    
+}
+
+.cardContainer {
+    margin-top: 50px;
+}
+
+.card {
+    max-width: 345px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .cardContainer {
+        flex-direction: column;
+        align-items: center;
+    }
+}

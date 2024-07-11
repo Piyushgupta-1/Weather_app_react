@@ -1,0 +1,36 @@
+.weather-app {
+    text-align: center;
+    margin: 20px;
+}
+
+.weather-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.weather-content > div {
+    flex: 1;
+    margin: 10px;
+}
+
+.forecast-boxes {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.daily-forecast, .hourly-forecast {
+    margin: 10px 0;
+}
+
+.temperature-chart {
+    margin-top: 20px; /* Add some space between the forecast boxes and the chart */
+}
+
+@media (max-width: 768px) {
+    .weather-content {
+        flex-direction: column;
+        align-items: center;
+    }
+}
